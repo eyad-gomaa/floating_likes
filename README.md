@@ -19,7 +19,7 @@ flutter pub get
 
 ## 🎬 Demo
 
-![Floating Likes in action](example/floating_likes_example/assets/record3.gif)
+![Floating Likes in action](example/floating_likes_example/assets/record4.gif)
 
 ## ✨ Features
 
